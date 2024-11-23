@@ -69,7 +69,7 @@ export async function POST(req: Request) {
       text: `
         Hello, ${ fullName },
 
-        Thank you for reaching out to us! We’ve received your message and will get back to you as soon as possible. If your inquiry is urgent, feel free to contact us directly through our (837) 233-6612 or contact@dynamicstudio.us.
+        Thank you for reaching out to us! We’ve received your message and will get back to you as soon as possible. If your inquiry is urgent, feel free to contact us directly through our (837) 233-6612 or contact@dynamicstudio.us
 
         Best regards,
         Dynamic Studio Team
